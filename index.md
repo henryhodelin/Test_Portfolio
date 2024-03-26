@@ -2,17 +2,9 @@
 layout: default
 ---
 
-[Resume](https://henryhodelin.github.io/Short_Resume_EN/). 
+[Resume](https://henryhodelin.github.io/Short_Resume_EN/). [![Logo de Markdown](./assets/img/email_small.png)](mailto:henry.hodelin@gmail.com)  [Link to another page](./another-page.html).  [Markdown Examples](./markdown_examples.html)   [Markdown Examples](./markdown_examples.html)
 
 
-
-[![Logo de Markdown](./assets/img/email_small.png)](https://es.wikipedia.org/wiki/Markdown)
-
-
-
-[Link to another page](./another-page.html). 
-
-[Markdown Examples](./markdown_examples.html)
 
 
 # Data Science Portfolio
