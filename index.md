@@ -2,10 +2,9 @@
 layout: default
 ---
 
+[Resume](https://henryhodelin.github.io/Short_Resume_EN/). | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | ![Octocat](https://github.com/henryhodelin/Test_Portfolio/tree/main/assets/img/email.png)
 
-[Link to another page](./another-page.html).
-
-[Markdown Examples](./markdown_examples.html)
+[Link to another page](./another-page.html). | [Markdown Examples](./markdown_examples.html)
 
 
 # Data Science Portfolio
@@ -16,7 +15,7 @@ layout: default
 - Project 1 
   - Short description:
     - Descripción detallada
-  - Tools:
+  - Tools and skills:
     - Tool 1
     - Tool 2
     - Tool 3
@@ -24,7 +23,7 @@ layout: default
 - Project 2 
   - Short description:
     - Descripción detallada
-  - Tools:
+  - Tools and skills:
     - Tool 1
     - Tool 2
     - Tool 3
@@ -33,7 +32,7 @@ layout: default
 - Project 3 
   - Short description:
     - Descripción detallada
-  - Tools:
+  - Tools and skills:
     - Tool 1
     - Tool 2
     - Tool 3
@@ -41,7 +40,7 @@ layout: default
 - Project 4 
   - Short description:
     - Descripción detallada
-  - Tools:
+  - Tools and skills:
     - Tool 1
     - Tool 2
     - Tool 3
@@ -50,7 +49,7 @@ layout: default
 - Project 5 
   - Short description:
     - Descripción detallada
-  - Tools:
+  - Tools and skills:
     - Tool 1
     - Tool 2
     - Tool 3
