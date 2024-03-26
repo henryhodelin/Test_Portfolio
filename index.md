@@ -4,10 +4,12 @@ layout: default
 
 [Resume](https://henryhodelin.github.io/Short_Resume_EN/). 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+
+![Octocat](./assets/img/email.png){width=100px }
+
+[![Logo de Markdown](./assets/img/email.png){width=100px }](https://es.wikipedia.org/wiki/Markdown)
 
 
-![Octocat](./assets/img/email.png)
 
 [Link to another page](./another-page.html). 
 
