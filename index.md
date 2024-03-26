@@ -10,13 +10,12 @@ layout: default
 
 # Data Science Portfolio
 
-fdlaskdofjiasdflasdf
 
-## Show case projects
+## Principal show case projects
 
 fkdnoasoidfnaosd
 
 ## Extra projects
 
-
+fasdfadfadfdsa
 
