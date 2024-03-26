@@ -2,9 +2,16 @@
 layout: default
 ---
 
-[Resume](https://henryhodelin.github.io/Short_Resume_EN/). | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | ![Octocat](https://github.com/henryhodelin/Test_Portfolio/tree/main/assets/img/email.png)
+[Resume](https://henryhodelin.github.io/Short_Resume_EN/). 
 
-[Link to another page](./another-page.html). | [Markdown Examples](./markdown_examples.html)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+
+
+![Octocat](./assets/img/email.png)
+
+[Link to another page](./another-page.html). 
+
+[Markdown Examples](./markdown_examples.html)
 
 
 # Data Science Portfolio
