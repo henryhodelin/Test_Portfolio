@@ -5,9 +5,9 @@ layout: default
 [Resume](https://henryhodelin.github.io/Short_Resume_EN/). 
 
 
-![Octocat](./assets/img/email.png){width=10px }
+![Octocat](./assets/img/email.png){width=20px height=20px}
 
-[![Logo de Markdown](./assets/img/email.png){width=100px }](https://es.wikipedia.org/wiki/Markdown)
+[![Logo de Markdown](./assets/img/email.png){width=20px height=20px}](https://es.wikipedia.org/wiki/Markdown)
 
 
 
